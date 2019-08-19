@@ -6,7 +6,7 @@ for a mail-order sales company in Germany.
 These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. 
 
 ### Applied Techniques:
-Principal Component Analysis
-K_Means clustering 
+1) Principal Component Analysis
+2) K_Means clustering 
 
 
